@@ -8,7 +8,7 @@ body, html {
 }
 
 body {
-  background-image: image(./images/white-wood.jpg);
+  background-image: image('./images/white-wood.jpg');
 }
 
 .container, h1 {
