@@ -22,7 +22,7 @@ body {
   margin: 10px auto;
 }
 
-h4.amiable {
+body h4 {
   width: fit-content;
   display: inline-block;
   padding: 5px;
