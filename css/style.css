@@ -29,7 +29,7 @@ body h4 {
   margin: 20px 0 0 0;
 }
 
-h4.amiable {
+h4.gradient {
   background: linear-gradient(to right red yellow)
 }
 
