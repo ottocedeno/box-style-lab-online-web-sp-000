@@ -35,7 +35,7 @@ img {
 
 .indifferent {
   border: 1px solid #A39857;
-  box-shadow: -1px 1px #A39857, -2px 2px #A39857, -3px 3px #A39857, -4px 4px #22aa44, -5px 5px #A39857;
+  box-shadow: -1px 1px #A39857, -2px 2px #A39857, -3px 3px #A39857, -4px 4px #A39857, -5px 5px #A39857;
   background-color: #dddd22;
 }
 
